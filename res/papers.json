@@ -1,0 +1,79 @@
+{
+    "papers": [
+        {
+            "id": 2,
+            "size": "A1",
+            "color": "WHITE"
+        },
+        {
+            "id": 3,
+            "size": "A2",
+            "color": "WHITE"
+        },
+        {
+            "id": 4,
+            "size": "A3",
+            "color": "WHITE"
+        },
+        {
+            "id": 5,
+            "size": "A4",
+            "color": "WHITE"
+        },
+        {
+            "id": 6,
+            "size": "A5",
+            "color": "WHITE"
+        },
+        {
+            "id": 7,
+            "size": "A6",
+            "color": "WHITE"
+        },
+        {
+            "id": 8,
+            "size": "B0",
+            "color": "WHITE"
+        },
+        {
+            "id": 11,
+            "size": "B3",
+            "color": "WHITE"
+        },
+        {
+            "id": 12,
+            "size": "B4",
+            "color": "WHITE"
+        },
+        {
+            "id": 13,
+            "size": "B5",
+            "color": "WHITE"
+        },
+        {
+            "id": 15,
+            "size": "C0",
+            "color": "WHITE"
+        },
+        {
+            "id": 16,
+            "size": "C1",
+            "color": "WHITE"
+        },
+        {
+            "id": 17,
+            "size": "C2",
+            "color": "WHITE"
+        },
+        {
+            "id": 18,
+            "size": "C3",
+            "color": "WHITE"
+        },
+        {
+            "id": 22,
+            "size": "A4",
+            "color": "GRAPHITE"
+        }
+    ]
+}
